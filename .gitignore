@@ -1,0 +1,16 @@
+# LITESTAP accounting and financial data - NEVER commit
+Companies/
+Backups/
+LITESTAP_DATA.json
+Month_Data.json
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.json.bak
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
